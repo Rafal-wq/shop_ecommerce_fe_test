@@ -2,7 +2,7 @@
 Project of only frontend app of shop
 ## Description
 
-This is frontend project of app Shop write in React.js.</br>
+This is frontend project of Shop app write in React.js.</br>
 
 To download this BE app, write :
 

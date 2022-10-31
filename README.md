@@ -27,4 +27,28 @@ To run :
 $ npm run dev
 ```
 
+Views :
 
+
+# Home :
+<p>
+<a target="blank"><img src="https://i.ibb.co/GQLMP8z/Home-view.png" alt="View of main panel"/></a>
+</p>
+
+# Store view :
+
+<p>
+<a target="blank"><img src="https://i.ibb.co/By67Tbf/Store-view.png" alt="View of store panel" /></a>
+</p>
+
+# Adding to basket :
+
+<p>
+<a target="blank"><img src="https://i.ibb.co/N22HQrd/Added-to-basket-view.png" alt="View of items added to basket" /></a>
+</p>
+
+# View of basket :
+
+<p>
+<a target="blank"><img src="https://i.ibb.co/1mMdBSz/View-of-basket-and-items.png" alt="View of basket" /></a>
+</p>

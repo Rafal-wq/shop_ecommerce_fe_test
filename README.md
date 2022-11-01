@@ -4,6 +4,10 @@ Project of only frontend app of shop
 
 This is frontend project of Shop app write in React.js.</br>
 
+You can test it - link below :
+
+https://shopecommercefetest.rafaw.repl.co/store
+
 To download this BE app, write :
 
 ```bash
